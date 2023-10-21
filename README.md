@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=C49BE9&height=100&section=header&text=&fontSize=90)
 # 🐸 Hiya, my name's Ashley!
 
 Everyone calls me Addy. Welcome to my profile! I am a Data Analyst and Product Owner at Whirlpool Corporation, currently based in Louisiana, USA. I didn't start out coding, I taught myself how to automate my workflows and have been addicted ever since. I love frogs, coffee, and the color purple! When I'm not learning something new, you'll find me reading a book or playing a video game.
