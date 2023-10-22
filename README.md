@@ -21,4 +21,5 @@ Everyone calls me Addy. Welcome to my profile! I am a Data Analyst and Product O
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/microsoft%20sql%20server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) 
 ![Tableau](https://img.shields.io/badge/tableau-E97627?style=flat-square&logo=Tableau&logoColor=white) 
+![VBA](https://img.shields.io/badge/visual%20basic-512BD4.svg?style=flat-square&logo=Visual-Basic&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/visual%20studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white)
